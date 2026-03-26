@@ -70,3 +70,8 @@ Net profit: ≈ 3 % ($75.00)
 I lost 0.18 ETH at the start, but then everything paid off.
 
 Good luck and profits.
+
+
+
+---
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=112)
