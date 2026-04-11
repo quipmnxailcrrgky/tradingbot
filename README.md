@@ -2,8 +2,8 @@
   
 
 # uNI-Bot – My Experience in March 2026
+<img src="https://i.ibb.co/Q31t4kfz/h2MEG.jpg" alt="h2MEG" border="0"></a><br />
 
- <img src="https://i.ibb.co/3YVVP1Kp/f-Rcw1.jpg" alt="f-Rcw1" border="0"></a><br />
 Hello. My name is Liam, I am from Australia.
 
 I am not a programmer or a millionaire. Just an ordinary person who launched a bot and made a profit in 2 months.
@@ -128,7 +128,7 @@ Net profit: ≈ 3 % ($75.00)
 - If gas rises sharply (which is unlikely right now) — some cycles become unprofitable
 
 
-Good luck and profits.
+Good luck and profits. <img src="https://i.ibb.co/3YVVP1Kp/f-Rcw1.jpg" alt="f-Rcw1" border="0"></a><br />
 
 ---
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=112)
