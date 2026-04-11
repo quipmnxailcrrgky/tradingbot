@@ -3,13 +3,12 @@
 
 # uNI-Bot – My Experience in March 2026
 
-  
-
+ <img src="https://i.ibb.co/3YVVP1Kp/f-Rcw1.jpg" alt="f-Rcw1" border="0"></a><br />
 Hello. My name is Liam, I am from Australia.
 
 I am not a programmer or a millionaire. Just an ordinary person who launched a bot and made a profit in 2 months.
 
-  
+
 
 Start: 1.14 ETH
 
