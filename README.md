@@ -131,4 +131,4 @@ Net profit: ≈ 3 % ($75.00)
 Good luck and profits. <img src="https://i.ibb.co/3YVVP1Kp/f-Rcw1.jpg" alt="f-Rcw1" border="0"></a><br />
 
 ---
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=112)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=8888werfd888888888888)
